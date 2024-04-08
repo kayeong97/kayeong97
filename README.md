@@ -1,3 +1,15 @@
 ## Introduction
-안녕하세요.
-평범한 대학생입니다😊
+
+### Hello!
+🌟Hello! 👋 My name is kayeong.
+
+### Current School
+🎓Currently, I am a Computer Engineering major at Yeungnam University.
+
+### Hobbies
+💡 Outside of class, I enjoy [Hobbies], which help me relieve stress and come up with new ideas.
+
+
+I use GitHub to share my projects and grow by communicating with other developers. 🌱💻
+
+Thank you!
