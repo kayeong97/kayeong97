@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🎀 <b>안녕하세요! 저는 Kayeong97입니다.</b> 🎀<br>
+  🎀 <b>안녕하세요! 저는 Kayeong입니다.</b> 🎀<br>
   💻 영남대학교 컴퓨터공학 전공 & 보안 연구실 학부 연구생 💻<br>
   🌱 웹 개발과 보안 공부 중! 🌱<br>
   📖 <a href="https://velog.io/@keepg0ing/posts">Velog에서 글 쓰기</a>도 좋아해요! ✏️💡
