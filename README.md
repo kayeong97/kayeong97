@@ -33,9 +33,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1hAxQDaXbGqdW7cY/giphy.gif" width="150" />
-</p>
-
-<p align="center">
   <em>꾸준히 성장하는 개발자가 되겠습니다 🐧✨</em>
 </p>
